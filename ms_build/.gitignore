@@ -1,0 +1,8 @@
+buildtools
+out
+.idea/
+.vs/
+*.vcxproj.user
+Debug/
+x64/
+*.obj
