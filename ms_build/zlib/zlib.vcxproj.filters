@@ -92,6 +92,12 @@
     <ClInclude Include="..\..\zutil.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\zconf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\zlib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="..\..\win32\zlib1.rc">
